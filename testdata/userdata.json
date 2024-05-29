@@ -1,0 +1,29 @@
+
+[
+    {
+        
+        "UserName" : "standard_user",
+        "Password" : "secret_sauce"
+    },
+    {
+        "UserName" : "problem_user",
+        "Password" : "secret_sauce"
+    },
+    {
+        "UserName" : "performance_glitch_user",
+        "Password" : "secret_sauce"
+    },
+    {
+        "UserName" : "error_user",
+        "Password" : "secret_sauce"
+    },
+    {
+        "UserName" : "visual_user",
+        "Password" : "secret_sauce"
+    },
+
+    {
+        "UserName" : "locked_out_user",
+        "Password" : "secret_sauce"
+    }
+    ]

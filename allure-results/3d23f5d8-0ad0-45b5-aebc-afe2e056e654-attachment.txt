@@ -1,0 +1,96 @@
+USER RESPONSE BODY :  {
+  page: 1,
+  per_page: 6,
+  total: 12,
+  total_pages: 2,
+  data: [
+    {
+      id: 1,
+      email: 'george.bluth@reqres.in',
+      first_name: 'George',
+      last_name: 'Bluth',
+      avatar: 'https://reqres.in/img/faces/1-image.jpg'
+    },
+    {
+      id: 2,
+      email: 'janet.weaver@reqres.in',
+      first_name: 'Janet',
+      last_name: 'Weaver',
+      avatar: 'https://reqres.in/img/faces/2-image.jpg'
+    },
+    {
+      id: 3,
+      email: 'emma.wong@reqres.in',
+      first_name: 'Emma',
+      last_name: 'Wong',
+      avatar: 'https://reqres.in/img/faces/3-image.jpg'
+    },
+    {
+      id: 4,
+      email: 'eve.holt@reqres.in',
+      first_name: 'Eve',
+      last_name: 'Holt',
+      avatar: 'https://reqres.in/img/faces/4-image.jpg'
+    },
+    {
+      id: 5,
+      email: 'charles.morris@reqres.in',
+      first_name: 'Charles',
+      last_name: 'Morris',
+      avatar: 'https://reqres.in/img/faces/5-image.jpg'
+    },
+    {
+      id: 6,
+      email: 'tracey.ramos@reqres.in',
+      first_name: 'Tracey',
+      last_name: 'Ramos',
+      avatar: 'https://reqres.in/img/faces/6-image.jpg'
+    }
+  ],
+  support: {
+    url: 'https://reqres.in/#support-heading',
+    text: 'To keep ReqRes free, contributions towards server costs are appreciated!'
+  }
+}
+ID AT POSITION[0] :  1
+EMAIL AT POSITION[0] :  george.bluth@reqres.in
+FIRST NAME AT POSITION[0] :  George
+LAST NAME AT POSITION[0] :  Bluth
+IMAGE AT POSITION[0] :  https://reqres.in/img/faces/1-image.jpg
+
+
+ID AT POSITION[1] :  2
+EMAIL AT POSITION[1] :  janet.weaver@reqres.in
+FIRST NAME AT POSITION[1] :  Janet
+LAST NAME AT POSITION[1] :  Weaver
+IMAGE AT POSITION[1] :  https://reqres.in/img/faces/2-image.jpg
+
+
+ID AT POSITION[2] :  3
+EMAIL AT POSITION[2] :  emma.wong@reqres.in
+FIRST NAME AT POSITION[2] :  Emma
+LAST NAME AT POSITION[2] :  Wong
+IMAGE AT POSITION[2] :  https://reqres.in/img/faces/3-image.jpg
+
+
+ID AT POSITION[3] :  4
+EMAIL AT POSITION[3] :  eve.holt@reqres.in
+FIRST NAME AT POSITION[3] :  Eve
+LAST NAME AT POSITION[3] :  Holt
+IMAGE AT POSITION[3] :  https://reqres.in/img/faces/4-image.jpg
+
+
+ID AT POSITION[4] :  5
+EMAIL AT POSITION[4] :  charles.morris@reqres.in
+FIRST NAME AT POSITION[4] :  Charles
+LAST NAME AT POSITION[4] :  Morris
+IMAGE AT POSITION[4] :  https://reqres.in/img/faces/5-image.jpg
+
+
+ID AT POSITION[5] :  6
+EMAIL AT POSITION[5] :  tracey.ramos@reqres.in
+FIRST NAME AT POSITION[5] :  Tracey
+LAST NAME AT POSITION[5] :  Ramos
+IMAGE AT POSITION[5] :  https://reqres.in/img/faces/6-image.jpg
+
+
